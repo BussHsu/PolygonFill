@@ -1,0 +1,57 @@
+﻿  main.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  VertexUI.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\vertexui.cpp(17): warning C4390: ';': empty controlled statement found; is this the intent?
+  Polygon.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\polygon.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  PolyFillState.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  PolyFillSM.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  Edge.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  CreatePointState.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  CreateLineState.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\createlinestate.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ConnectedGraph.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Circle.cpp
+c:\users\s9552\desktop\cg_hw1\project1\circle.h(14): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\circle.cpp(6): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+  c:\users\s9552\desktop\cg_hw1\project1\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(58): note: see previous definition of 'WIN32_LEAN_AND_MEAN'
+c:\users\s9552\desktop\cg_hw1\project1\circle.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\circle.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  BaseUI.cpp
+c:\users\s9552\desktop\cg_hw1\project1\mygeometry.h(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s9552\desktop\cg_hw1\project1\baseui.h(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+c:\users\s9552\desktop\cg_hw1\project1\connectedgraph.cpp(51): warning C4715: 'ConnectedGraph::GetVertex': not all control paths return a value
+  Project1.vcxproj -> C:\Users\s9552\Desktop\CG_HW1\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\s9552\Desktop\CG_HW1\Project1\Debug\Project1.pdb (Partial PDB)
